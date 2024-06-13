@@ -1,0 +1,29 @@
+Decoder über USB mit PC verbinden
+DOWNLOAD Tool starten
+korrekten COM-Port einstellen
+Dateien zum Laden auswählen
+START drücken
+warten bis FINISH erscheint
+DOWNLOAD Tool schließen
+
+TERA TERM starten
+korrekten COM-Port einstellen
+LED auf dem Decoder blinkt schnell
+EEPROM löschen (J/N)?
+J und Enter eingeben
+Netzwerk auswählen (Ziffer und ENTER eingeben)
+Passwort und ENTER eingeben.
+LED auf dem Decoder blinkt langsam
+Decoder verbindet sich mit dem ausgewählten Netzwerk
+LED auf dem Decoder muss nun dauerhaft leuchten!
+Angezeigte IP-Adresse merken
+
+ESP32_GUI starten
+Datei (bin-Datei) zum Laden auswählen
+IP-Adresse eingeben
+UPLOAD drücken (manchmal auch Doppelklick)
+LED auf dem Decoder muss immer noch dauerhaft leuchten!
+Datei wird übertragen
+ESP32_GUI schließen
+TERA TERM schließen
+FERTIG!
